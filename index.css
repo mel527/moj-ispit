@@ -7,3 +7,27 @@ body {
 p {
   text-align: justify;
 }
+
+header {
+  background-color: #b30059;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+main {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+h1 {
+  color: blue;
+}
+h2 {
+  color: blue;
+}
